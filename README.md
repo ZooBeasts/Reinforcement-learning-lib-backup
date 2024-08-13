@@ -1,2 +1,2 @@
 # Reinforcement-learning-lib-backup
-RL lib backup with maze example
+personal RL lib backup with maze example
